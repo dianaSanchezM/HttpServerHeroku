@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* co.edu.escuelaing.sparksimpleexample.Server
+web: java -cp target/classes:target/dependency/* com.mycompany.httpserver.httpServer
